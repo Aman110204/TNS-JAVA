@@ -1,16 +1,10 @@
-// Modified by Aman
-package skit_codes;
-//TypeCastingDemo
+package Tns;
 public class ShoppingCart {
-
+//TypeCastingDemo
 	public static void main(String[] args) {
-		//implicit widening (automatic) from int to double
 		int quantity=3;
 		double priceitem=99.50;
 		double totalprice = quantity*priceitem;
-		
-		//narrowing (manual) from double to int
-		
 		double discount=10.75;
 		int roundedDiscount=(int)discount;
 		double finalAmount =totalprice -roundedDiscount;
