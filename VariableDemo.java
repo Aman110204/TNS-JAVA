@@ -1,5 +1,4 @@
-// Modified by Aman
-package skit_codes;
+package Tns;
 
 public class VariableDemo {
 		int cost=10;//instance var
