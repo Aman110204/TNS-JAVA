@@ -1,4 +1,4 @@
-package skit_codes;
+package Tns;
 
 public class FirstProgram {
 
