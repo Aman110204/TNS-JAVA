@@ -8,7 +8,7 @@ public class DatatypeDemo {
 		int orderId=101;
 		double  price =299.99;
 		boolean  isDelivered =false;
-		char rating ='A';
+		char rating ='5';
 		float deliverydistance= 5.3f;
 		long deliveryboyPhone=7829017391l;
 		byte deliveryTime =45;
@@ -16,8 +16,8 @@ public class DatatypeDemo {
 			
 	
 		//non primitive datatype
-	String customerName="Anjali";
-	String[] FoodItems = {"Burger","Fries","Cake"};
+	String customerName="Aman";
+	String[] FoodItems = {"Burger","Fries","Coco cola","lava cake"};
 	
 		System.out.println("Order Summary");
 		System.out.println("Customer name : "+customerName);
