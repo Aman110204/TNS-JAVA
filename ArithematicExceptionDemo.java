@@ -1,4 +1,4 @@
-package org.tnsif.sf.tnsif.exceptiondemo;
+package tns;
 
 public class ArithematicExceptionDemo {
 
@@ -20,3 +20,4 @@ public class ArithematicExceptionDemo {
 	}
 
 }
+
