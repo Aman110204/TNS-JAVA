@@ -1,9 +1,9 @@
-package org.tnsif.sf.tnsif.exceptiondemo;
+package tns;
 
 public class ArrayIndexOutOfBoundExceptionDemo {
 
 	public static void main(String[] args) {
-		int arr[]=new int[4]; //1 2 3 4 start=0 end=3
+		int arr[]=new int[4];
 		try
 		{
 			 int i=arr[6];
@@ -17,3 +17,4 @@ public class ArrayIndexOutOfBoundExceptionDemo {
 	}
 
 }
+
