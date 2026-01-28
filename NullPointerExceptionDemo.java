@@ -1,4 +1,4 @@
-package org.tnsif.sf.tnsif.exceptiondemo;
+package tns;
 
 public class NullPointerExceptionDemo {
 
@@ -18,3 +18,4 @@ public class NullPointerExceptionDemo {
 	}
 
 }
+
