@@ -1,4 +1,4 @@
-package org.tnsif.sf.tnsif.exceptiondemo;
+package tns;
 
 public class StringIndexOutBoundException {
 
@@ -23,3 +23,4 @@ public class StringIndexOutBoundException {
 	}
 
 }
+
